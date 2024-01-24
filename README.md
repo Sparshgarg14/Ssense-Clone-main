@@ -6,9 +6,6 @@ Ssense (https://www.ssense.com/en-in) is a multi-brand retailer based in Montrea
 
 This project is deployed on netlify here - [Ssense Clone](https://ssense-clone-masai.netlify.app/)
 
-## Authors
-
-- [@Kunal-Ladhani](https://github.com/Kunal-Ladhani)
 
 
 
